@@ -1,0 +1,17 @@
+RESTful API Design
+
+Farms
+GET /api/farms - Retrieve all farms  
+GET /api/farms/{id} - Retrieve farm by ID  
+
+Crops
+GET /api/crops - Retrieve all crops  
+
+Soil Health
+GET /api/soil - Retrieve soil data  
+
+Farm-Crop Relationships
+GET /api/farm-crops - Retrieve all farm-crop relationships  
+
+Sustainability Initiatives
+GET /api/initiatives - Retrieve all initiatives  
